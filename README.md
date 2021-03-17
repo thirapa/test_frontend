@@ -10,6 +10,12 @@ npm install
 npm run serve
 ```
 
+### Dependencies for development
+```
+vue add vuetify             //for install vuetify
+npm install @mdi/font -D    //for use Material Design Icons in vuetify
+```
+
 ### Compiles and minifies for production
 ```
 npm run build
